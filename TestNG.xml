@@ -1,7 +1,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="API Testing Suite" verbose="1" >
-    <test name="RestAssures API Test Results" >
+    <test name="RestAssuredAPITestResults" >
         <classes>
             <class name="BasicApiTest" />
         </classes>
